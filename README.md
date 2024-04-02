@@ -1,8 +1,3 @@
-.hr-dotted {
-  border : 0px;
-  border-top: 5px dotted #663399;
-}
-
 <h1 align="center"> 백엔드 엔지니어 김현준이라고 합니다 👋 </h1>
 
 <h3>⭐️My Dream</h3>
