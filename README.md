@@ -5,7 +5,12 @@
 백엔드 개발부터 시스템 구축 및 유지보수까지 모두 잘 하기를 바라는 욕심쟁이입니다! 
 
 <h3>😽Brief Introduction</h3>
-- 안녕하세요! 신입 백엔드 엔지니어 김현준 입니다.
+<table>
+    <thead>
+        <th>안녕하세요! 신입 백엔드 엔지니어 김현준 입니다.</th>        
+    </thead>
+</table>
+- 
 - 아는 것은 함께 나누고 모르는 것은 겸손히 배우는 것이 가장 중요하다 생각합니다.
     - 여러 기술을 공부하고 테스트 합니다.
     - 알게된 것은 사내의 스터디그룹을 만들어 함께 나누었습니다.
@@ -17,12 +22,4 @@
     - 좋은 코드, 좋은 기록은 나 스스로에게도 더 나은 발전을 줄 수 있다고 생각합니다.
 
 <h3>🛠️Stacks🛠️</h3>
-<div>
-  <h4>💻Developer Stacks</h4>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>&nbsp;
-    <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>&nbsp;
 
-  
-</div>
