@@ -19,16 +19,13 @@
 <h3>🛠️Stacks🛠️</h3>
 <div>
   <h4>💻Developer Stacks</h4>
-  <div>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
       <img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
       <img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
       <img src="https://img.shields.io/badge/springsecurity-#6DB33F?style=flat-square&logo=springsecurity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
       <img src="https://img.shields.io/badge/JPA?style=flat-square&logo=JPA&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
-    
-    <img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </div>
+<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
   
 </div>
