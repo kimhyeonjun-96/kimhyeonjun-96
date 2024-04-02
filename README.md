@@ -1,6 +1,6 @@
 <h1 align="center"> 백엔드 엔지니어 김현준이라고 합니다 👋 </h1>
 
-<h3>⭐️My Dream⭐️</h3>
+<h3>⭐️My Dream</h3>
 저의 꿈은 백엔드 엔지니어라는 말에 어울리는 사람이 되는 것입니다.
 <br>
 그래서 백엔드 개발부터 시스템 구축 및 유지보수까지 모두 잘 하는게 저의 목표 입니다!
@@ -20,7 +20,7 @@
     - 다른 사람들이 이해하기 쉽도록 작성된 코드와 관련된 설명은 유지보수하기 좋다라고 생각합니다.
     - 좋은 코드, 좋은 기록은 나 스스로에게도 더 나은 발전을 줄 수 있다고 생각합니다.
 
-<h3>🛠️Stacks🛠️</h3>
+<h3>🛠️Stacks</h3>
 <h4>[ 개발영역 ]</h4>
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
