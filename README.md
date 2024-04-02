@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=Spring Security&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
     <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 <br>
 <h4>[ 인프라영역 ]</h4>
