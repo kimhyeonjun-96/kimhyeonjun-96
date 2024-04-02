@@ -49,4 +49,7 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
+
+<br>
+<h3>🏃‍♂️Slow and Steady wins the race!</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyeonjun-96&show_icons=true&theme=radical)
